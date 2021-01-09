@@ -1,4 +1,10 @@
-### Hi, I'm Matheus Mazoni 👋
+<h3>Hi, I'm Matheus Mazoni <img src="https://media.giphy.com/media/sW0L5TunRpSCFD954x/giphy.gif" width="50"></h3>
+
+<img align='right' src="https://media.giphy.com/media/Q55kqPMGxJ93dwH7T8/giphy.gif" width="330">
+
+[![Twitter: @mazoni_matheus](https://img.shields.io/twitter/follow/mazoni_matheus?style=social)](https://twitter.com/mazoni_matheus)
+[![Linkedin: matheusmazoni](https://img.shields.io/badge/-matheusmazoni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-mazoni/)](https://www.linkedin.com/in/matheus-mazoni/)
+[![GitHub MMazoni](https://img.shields.io/github/followers/MMazoni?label=follow&style=social)](https://github.com/MMazoni)
 
 [![Mazoni's github stats](https://github-readme-stats.vercel.app/api?username=MMazoni)](https://github.com/MMazoni/github-readme-stats&show_icons=true)
 
