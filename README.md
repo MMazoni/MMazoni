@@ -1,4 +1,4 @@
-<h3>Hi, I'm Matheus Mazoni <img src="https://media.giphy.com/media/sW0L5TunRpSCFD954x/giphy.gif" width="50"></h3>
+<h3>Hi, I'm Matheus Mazoni <img src="https://media.giphy.com/media/S6MVsviZ7I2IQ7lgi5/giphy.gif" width="30"></h3>
 
 <img align='right' src="https://media.giphy.com/media/Q55kqPMGxJ93dwH7T8/giphy.gif" width="330">
 
