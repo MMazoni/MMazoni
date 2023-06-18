@@ -1,6 +1,6 @@
 <h3>Hi, I'm Matheus Mazoni <img src="https://media.giphy.com/media/S6MVsviZ7I2IQ7lgi5/giphy.gif" width="30"></h3>
 
-<p>I have been working as a developer since 2019 with PHP and JS. Right now, I'm working more with Docker, GitHub Actions (CI/CD), and Automation (Python). My goal is to migrate to the DevOps field.</p>
+<p>I have been working as a developer since 2019 with PHP and JS. Right now, I'm working more with Docker, GitHub Actions (CI/CD), and Automation (Python). I like to learn about the DevOps field.</p>
 <p>:brazil: My interests are: :computer: Developer Tools | ✔️ Quality | :lock: Security | :cloud: Cloud Computing and more... :ramen: :bike: :guitar: :basketball:</p>
 <img align='right' src="https://media.giphy.com/media/cLY9HaEaTtpMskZ6gc/giphy.gif" width="330">
 
